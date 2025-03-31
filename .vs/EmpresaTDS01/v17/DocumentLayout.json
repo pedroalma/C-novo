@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEC863AE-3EE3-47E2-9FEB-A0C88A110231}|Padaria\\Padaria.csproj|C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DEC863AE-3EE3-47E2-9FEB-A0C88A110231}|Padaria\\Padaria.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC863AE-3EE3-47E2-9FEB-A0C88A110231}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC863AE-3EE3-47E2-9FEB-A0C88A110231}|Padaria\\Padaria.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DEC863AE-3EE3-47E2-9FEB-A0C88A110231}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEC863AE-3EE3-47E2-9FEB-A0C88A110231}|Padaria\\Padaria.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEC863AE-3EE3-47E2-9FEB-A0C88A110231}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A93FFBF9-88B9-4535-A4F7-728579E0407F}|FolhadePagamento\\FolhadePagamento.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\folhadepagamento\\frmfolhadepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A93FFBF9-88B9-4535-A4F7-728579E0407F}|FolhadePagamento\\FolhadePagamento.csproj|solutionrelative:folhadepagamento\\frmfolhadepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93FFBF9-88B9-4535-A4F7-728579E0407F}|FolhadePagamento\\FolhadePagamento.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\folhadepagamento\\frmfolhadepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93FFBF9-88B9-4535-A4F7-728579E0407F}|FolhadePagamento\\FolhadePagamento.csproj|solutionrelative:folhadepagamento\\frmfolhadepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +26,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmCalculadora.cs",
-              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\Padaria\\frmCalculadora.cs",
-              "RelativeDocumentMoniker": "Padaria\\frmCalculadora.cs",
-              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\Padaria\\frmCalculadora.cs",
-              "RelativeToolTip": "Padaria\\frmCalculadora.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAkwFkAAAARAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "frmFolhadePagamento.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\FolhadePagamento\\frmFolhadePagamento.cs",
+              "RelativeDocumentMoniker": "FolhadePagamento\\frmFolhadePagamento.cs",
+              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\FolhadePagamento\\frmFolhadePagamento.cs",
+              "RelativeToolTip": "FolhadePagamento\\frmFolhadePagamento.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAswJUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T11:31:27.455Z",
+              "WhenOpened": "2025-03-31T13:32:58.97Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmCalculadora.cs [Design]",
               "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\Padaria\\frmCalculadora.cs",
               "RelativeDocumentMoniker": "Padaria\\frmCalculadora.cs",
@@ -43,6 +52,31 @@
               "RelativeToolTip": "Padaria\\frmCalculadora.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T11:31:01.192Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCalculadora.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\Padaria\\frmCalculadora.cs",
+              "RelativeDocumentMoniker": "Padaria\\frmCalculadora.cs",
+              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\Padaria\\frmCalculadora.cs",
+              "RelativeToolTip": "Padaria\\frmCalculadora.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:36:52.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmFolhadePagamento.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\FolhadePagamento\\frmFolhadePagamento.cs",
+              "RelativeDocumentMoniker": "FolhadePagamento\\frmFolhadePagamento.cs",
+              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\FolhadePagamento\\frmFolhadePagamento.cs [Design]",
+              "RelativeToolTip": "FolhadePagamento\\frmFolhadePagamento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:08:09.285Z",
               "EditorCaption": " [Design]"
             }
           ]

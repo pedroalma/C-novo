@@ -130,6 +130,7 @@
             this.rdbSubtrair.TabStop = true;
             this.rdbSubtrair.Text = "Subtrair";
             this.rdbSubtrair.UseVisualStyleBackColor = true;
+            this.rdbSubtrair.CheckedChanged += new System.EventHandler(this.rdbSubtrair_CheckedChanged);
             // 
             // rdbSomar
             // 

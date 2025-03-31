@@ -75,35 +75,54 @@ namespace Padaria
                 //}
 
                 //resp = num1 + num2;
-                if (num2 == 0 & rdbDivisao.Checked)
+                if (rdbSomar.Checked == false && rdbSubtrair.Checked == false && rdbMultiplicar.Checked == false && rdbDivisao.Checked == false)
                 {
-                    MessageBox.Show("Impossivel dividir por Zero", "mensagem do sistema", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
-                    resp = 0;
+                    MessageBox.Show("Selecione ema operacão",
+                        "Mensagem do sistema",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Error,
+                        MessageBoxDefaultButton.Button1);
                 }
-                else if (rdbSomar.Checked)
+                else
                 {
-                    resp = num1 + num2;
-                }
-                else if (rdbSubtrair.Checked)
-                {
-                    resp = num1 - num2;
-                }
-                else if (rdbMultiplicar.Checked)
-                {
-                    resp = num1 * num2;
-                }
-                else if (rdbDivisao.Checked)
-                {
-                    resp = (num1 / num2);
-                }
+                    if (num2 == 0 & rdbDivisao.Checked)
+                    {
+                        MessageBox.Show("Impossivel dividir por Zero", "mensagem do sistema", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
+                        resp = 0;
+                    }
+                    else if (rdbSomar.Checked)
+                    {
+                        resp = num1 + num2;
+                    }
+                    else if (rdbSubtrair.Checked)
+                    {
+                        resp = num1 - num2;
+                    }
+                    else if (rdbMultiplicar.Checked)
+                    {
+                        resp = num1 * num2;
+                    }
+                    else if (rdbDivisao.Checked)
+                    {
+                        resp = (num1 / num2);
+                    }
 
-                txtResposta.Text = resp.ToString();
+                    txtResposta.Text = resp.ToString();
 
+                }
             }
-            catch(Exception)
+            catch (Exception)
             {
                 MessageBox.Show("Favor inserir somente numeros", "mensagem do sistema", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
+                txtNumero1.Clear();
+                txtNumero2.Clear();
+                txtNumero1.Focus();
             }
+
+        }
+
+        private void rdbSubtrair_CheckedChanged(object sender, EventArgs e)
+        {
 
         }
     }
