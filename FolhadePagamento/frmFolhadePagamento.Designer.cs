@@ -28,7 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmFolhadePagamento));
             gpbfolha = new GroupBox();
+            btnSair = new Button();
+            btnLimpar = new Button();
             txtliquido = new TextBox();
             lblsalarioliquido = new Label();
             txtrenda = new TextBox();
@@ -48,6 +51,8 @@
             // 
             // gpbfolha
             // 
+            gpbfolha.Controls.Add(btnSair);
+            gpbfolha.Controls.Add(btnLimpar);
             gpbfolha.Controls.Add(txtliquido);
             gpbfolha.Controls.Add(lblsalarioliquido);
             gpbfolha.Controls.Add(txtrenda);
@@ -68,8 +73,33 @@
             gpbfolha.Size = new Size(760, 337);
             gpbfolha.TabIndex = 0;
             gpbfolha.TabStop = false;
-            gpbfolha.Text = "folha";
-            gpbfolha.Enter += gpbfolha_Enter;
+            // 
+            // btnSair
+            // 
+            btnSair.Image = (Image)resources.GetObject("btnSair.Image");
+            btnSair.ImageAlign = ContentAlignment.MiddleLeft;
+            btnSair.Location = new Point(666, 273);
+            btnSair.Name = "btnSair";
+            btnSair.Size = new Size(88, 58);
+            btnSair.TabIndex = 15;
+            btnSair.Text = "&Sair";
+            btnSair.TextAlign = ContentAlignment.MiddleRight;
+            btnSair.UseVisualStyleBackColor = true;
+            btnSair.Click += btnSair_Click;
+            // 
+            // btnLimpar
+            // 
+            btnLimpar.Font = new Font("Segoe UI", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnLimpar.Image = (Image)resources.GetObject("btnLimpar.Image");
+            btnLimpar.ImageAlign = ContentAlignment.MiddleLeft;
+            btnLimpar.Location = new Point(666, 209);
+            btnLimpar.Name = "btnLimpar";
+            btnLimpar.Size = new Size(88, 58);
+            btnLimpar.TabIndex = 14;
+            btnLimpar.Text = "&Limpar";
+            btnLimpar.TextAlign = ContentAlignment.MiddleRight;
+            btnLimpar.UseVisualStyleBackColor = true;
+            btnLimpar.Click += btnLimpar_Click;
             // 
             // txtliquido
             // 
@@ -138,7 +168,7 @@
             // ccbClube
             // 
             ccbClube.FormattingEnabled = true;
-            ccbClube.Items.AddRange(new object[] { "Clube A", "Clube B", "Clube c" });
+            ccbClube.Items.AddRange(new object[] { "sem Clube", "Clube A", "Clube B", "Clube c" });
             ccbClube.Location = new Point(46, 259);
             ccbClube.Name = "ccbClube";
             ccbClube.Size = new Size(121, 29);
@@ -204,6 +234,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(784, 361);
             Controls.Add(gpbfolha);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             Name = "frmFolhadePagamento";
             StartPosition = FormStartPosition.CenterScreen;
@@ -219,7 +250,6 @@
         private Label lbldata;
         private Label lblSalario;
         private DateTimePicker dtpData;
-        private TextBox txtSalario;
         private CheckBox ccbPlano;
         private Label lblClube;
         private ComboBox ccbClube;
@@ -230,5 +260,8 @@
         private TextBox txtfolha;
         private TextBox txtliquido;
         private Label lblsalarioliquido;
+        private Button btnSair;
+        private Button btnLimpar;
+        private TextBox txtSalario;
     }
 }

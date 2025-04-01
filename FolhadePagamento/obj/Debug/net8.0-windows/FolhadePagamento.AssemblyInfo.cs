@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FolhadePagamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d09a544b74877e103a5bb5d2baec6f81ee5ef0ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af47f66bb42123433adbd2a797742d9b9d324048")]
 [assembly: System.Reflection.AssemblyProductAttribute("FolhadePagamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FolhadePagamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
