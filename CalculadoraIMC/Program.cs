@@ -1,4 +1,4 @@
-namespace FolhadePagamento
+namespace CalculadoraIMC
 {
     internal static class Program
     {
@@ -10,8 +10,7 @@ namespace FolhadePagamento
         {
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
+            ApplicationConfiguration.Initialize();
             Application.Run(new frmCalculadoraIMC());
         }
     }
