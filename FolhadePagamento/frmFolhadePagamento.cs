@@ -154,5 +154,10 @@ namespace FolhadePagamento
         {
             txtfolha.Text = txtSalario.Text;
         }
+
+        private void gpbfolha_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

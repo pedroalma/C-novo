@@ -1,0 +1,17 @@
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\CalculadoraIMC\obj\Debug\net8.0-windows\FolhadePagamento.frmCalculadoraIMC.resources
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.csproj.GenerateResource.cache
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.AssemblyInfo.cs
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.sourcelink.json
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\CalculadoraIMC\bin\Debug\net8.0-windows\CalculadoraIMC.exe
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\CalculadoraIMC\bin\Debug\net8.0-windows\CalculadoraIMC.deps.json
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\CalculadoraIMC\bin\Debug\net8.0-windows\CalculadoraIMC.runtimeconfig.json
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\CalculadoraIMC\bin\Debug\net8.0-windows\CalculadoraIMC.dll
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\CalculadoraIMC\bin\Debug\net8.0-windows\CalculadoraIMC.pdb
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.dll
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\CalculadoraIMC\obj\Debug\net8.0-windows\refint\CalculadoraIMC.dll
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.pdb
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.genruntimeconfig.cache
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\CalculadoraIMC\obj\Debug\net8.0-windows\ref\CalculadoraIMC.dll

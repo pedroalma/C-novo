@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Padaria", "Padaria\Padaria.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FolhadePagamento", "FolhadePagamento\FolhadePagamento.csproj", "{A93FFBF9-88B9-4535-A4F7-728579E0407F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraIMC", "CalculadoraIMC\CalculadoraIMC.csproj", "{AEBAC25B-9310-416F-ABD8-6B593517AEF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraIMC", "CalculadoraIMC\CalculadoraIMC.csproj", "{AEBAC25B-9310-416F-ABD8-6B593517AEF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoOrientacaoObjeto", "ProjetoOrientacaoObjeto\ProjetoOrientacaoObjeto.csproj", "{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{AEBAC25B-9310-416F-ABD8-6B593517AEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEBAC25B-9310-416F-ABD8-6B593517AEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEBAC25B-9310-416F-ABD8-6B593517AEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

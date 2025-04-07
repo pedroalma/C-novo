@@ -73,6 +73,7 @@
             gpbfolha.Size = new Size(760, 337);
             gpbfolha.TabIndex = 0;
             gpbfolha.TabStop = false;
+            gpbfolha.Enter += gpbfolha_Enter;
             // 
             // btnSair
             // 

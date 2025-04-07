@@ -1,0 +1,17 @@
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\bin\Debug\net8.0-windows\ProjetoOrientacaoObjeto.exe
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\bin\Debug\net8.0-windows\ProjetoOrientacaoObjeto.deps.json
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\bin\Debug\net8.0-windows\ProjetoOrientacaoObjeto.runtimeconfig.json
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\bin\Debug\net8.0-windows\ProjetoOrientacaoObjeto.dll
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\bin\Debug\net8.0-windows\ProjetoOrientacaoObjeto.pdb
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\net8.0-windows\ProjetoOrientacaoObjeto.frmExecutaObjeto.resources
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\net8.0-windows\ProjetoOrientacaoObjeto.csproj.GenerateResource.cache
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\net8.0-windows\ProjetoOrientacaoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\net8.0-windows\ProjetoOrientacaoObjeto.AssemblyInfoInputs.cache
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\net8.0-windows\ProjetoOrientacaoObjeto.AssemblyInfo.cs
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\net8.0-windows\ProjetoOrientacaoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\net8.0-windows\ProjetoOrientacaoObjeto.sourcelink.json
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\net8.0-windows\ProjetoOrientacaoObjeto.dll
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\net8.0-windows\refint\ProjetoOrientacaoObjeto.dll
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\net8.0-windows\ProjetoOrientacaoObjeto.pdb
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\net8.0-windows\ProjetoOrientacaoObjeto.genruntimeconfig.cache
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\net8.0-windows\ref\ProjetoOrientacaoObjeto.dll

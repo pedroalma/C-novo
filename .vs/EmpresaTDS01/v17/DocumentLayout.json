@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEBAC25B-9310-416F-ABD8-6B593517AEF0}|CalculadoraIMC\\CalculadoraIMC.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\calculadoraimc\\frmcalculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBAC25B-9310-416F-ABD8-6B593517AEF0}|CalculadoraIMC\\CalculadoraIMC.csproj|solutionrelative:calculadoraimc\\frmcalculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\projetoorientacaoobjeto\\frmexecutaobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|solutionrelative:projetoorientacaoobjeto\\frmexecutaobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A93FFBF9-88B9-4535-A4F7-728579E0407F}|FolhadePagamento\\FolhadePagamento.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\folhadepagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A93FFBF9-88B9-4535-A4F7-728579E0407F}|FolhadePagamento\\FolhadePagamento.csproj|solutionrelative:folhadepagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\projetoorientacaoobjeto\\frmexecutaobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|solutionrelative:projetoorientacaoobjeto\\frmexecutaobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEBAC25B-9310-416F-ABD8-6B593517AEF0}|CalculadoraIMC\\CalculadoraIMC.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\calculadoraimc\\frmcalculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AEBAC25B-9310-416F-ABD8-6B593517AEF0}|CalculadoraIMC\\CalculadoraIMC.csproj|solutionrelative:calculadoraimc\\frmcalculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBAC25B-9310-416F-ABD8-6B593517AEF0}|CalculadoraIMC\\CalculadoraIMC.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\calculadoraimc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBAC25B-9310-416F-ABD8-6B593517AEF0}|CalculadoraIMC\\CalculadoraIMC.csproj|solutionrelative:calculadoraimc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A93FFBF9-88B9-4535-A4F7-728579E0407F}|FolhadePagamento\\FolhadePagamento.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\folhadepagamento\\calculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A93FFBF9-88B9-4535-A4F7-728579E0407F}|FolhadePagamento\\FolhadePagamento.csproj|solutionrelative:folhadepagamento\\calculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A93FFBF9-88B9-4535-A4F7-728579E0407F}|FolhadePagamento\\FolhadePagamento.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\folhadepagamento\\calculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A93FFBF9-88B9-4535-A4F7-728579E0407F}|FolhadePagamento\\FolhadePagamento.csproj|solutionrelative:folhadepagamento\\calculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC863AE-3EE3-47E2-9FEB-A0C88A110231}|Padaria\\Padaria.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEC863AE-3EE3-47E2-9FEB-A0C88A110231}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A93FFBF9-88B9-4535-A4F7-728579E0407F}|FolhadePagamento\\FolhadePagamento.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\folhadepagamento\\frmfolhadepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A93FFBF9-88B9-4535-A4F7-728579E0407F}|FolhadePagamento\\FolhadePagamento.csproj|solutionrelative:folhadepagamento\\frmfolhadepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC863AE-3EE3-47E2-9FEB-A0C88A110231}|Padaria\\Padaria.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DEC863AE-3EE3-47E2-9FEB-A0C88A110231}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\projetoorientacaoobjeto\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|solutionrelative:projetoorientacaoobjeto\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,137 +26,40 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CalculadoraIMC.cs",
-              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\FolhadePagamento\\CalculadoraIMC.cs",
-              "RelativeDocumentMoniker": "FolhadePagamento\\CalculadoraIMC.cs",
-              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\FolhadePagamento\\CalculadoraIMC.cs",
-              "RelativeToolTip": "FolhadePagamento\\CalculadoraIMC.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAqwFIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "frmExecutaObjeto.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoOrientacaoObjeto\\frmExecutaObjeto.cs",
+              "RelativeDocumentMoniker": "ProjetoOrientacaoObjeto\\frmExecutaObjeto.cs",
+              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoOrientacaoObjeto\\frmExecutaObjeto.cs",
+              "RelativeToolTip": "ProjetoOrientacaoObjeto\\frmExecutaObjeto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwDwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T14:00:15.903Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\CalculadoraIMC\\Program.cs",
-              "RelativeDocumentMoniker": "CalculadoraIMC\\Program.cs",
-              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\CalculadoraIMC\\Program.cs",
-              "RelativeToolTip": "CalculadoraIMC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T14:54:02.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmCalculadoraIMC.cs",
-              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\CalculadoraIMC\\frmCalculadoraIMC.cs",
-              "RelativeDocumentMoniker": "CalculadoraIMC\\frmCalculadoraIMC.cs",
-              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\CalculadoraIMC\\frmCalculadoraIMC.cs",
-              "RelativeToolTip": "CalculadoraIMC\\frmCalculadoraIMC.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T14:53:57.152Z",
+              "WhenOpened": "2025-04-07T13:46:01.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmCalculadoraIMC.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\CalculadoraIMC\\frmCalculadoraIMC.cs",
-              "RelativeDocumentMoniker": "CalculadoraIMC\\frmCalculadoraIMC.cs",
-              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\CalculadoraIMC\\frmCalculadoraIMC.cs [Design]",
-              "RelativeToolTip": "CalculadoraIMC\\frmCalculadoraIMC.cs [Design]",
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoOrientacaoObjeto\\Calculadora.cs",
+              "RelativeDocumentMoniker": "ProjetoOrientacaoObjeto\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoOrientacaoObjeto\\Calculadora.cs",
+              "RelativeToolTip": "ProjetoOrientacaoObjeto\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T14:53:54.149Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\FolhadePagamento\\Program.cs",
-              "RelativeDocumentMoniker": "FolhadePagamento\\Program.cs",
-              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\FolhadePagamento\\Program.cs",
-              "RelativeToolTip": "FolhadePagamento\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T14:19:21.99Z",
+              "WhenOpened": "2025-04-07T12:49:24.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmCalculadora.cs",
-              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\Padaria\\frmCalculadora.cs",
-              "RelativeDocumentMoniker": "Padaria\\frmCalculadora.cs",
-              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\Padaria\\frmCalculadora.cs",
-              "RelativeToolTip": "Padaria\\frmCalculadora.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAALAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "frmExecutaObjeto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoOrientacaoObjeto\\frmExecutaObjeto.cs",
+              "RelativeDocumentMoniker": "ProjetoOrientacaoObjeto\\frmExecutaObjeto.cs",
+              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoOrientacaoObjeto\\frmExecutaObjeto.cs [Design]",
+              "RelativeToolTip": "ProjetoOrientacaoObjeto\\frmExecutaObjeto.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T13:59:20.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmFolhadePagamento.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\FolhadePagamento\\frmFolhadePagamento.cs",
-              "RelativeDocumentMoniker": "FolhadePagamento\\frmFolhadePagamento.cs",
-              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\FolhadePagamento\\frmFolhadePagamento.cs [Design]",
-              "RelativeToolTip": "FolhadePagamento\\frmFolhadePagamento.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T13:27:42.545Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmCalculadora.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\Padaria\\frmCalculadora.cs",
-              "RelativeDocumentMoniker": "Padaria\\frmCalculadora.cs",
-              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\Padaria\\frmCalculadora.cs [Design]",
-              "RelativeToolTip": "Padaria\\frmCalculadora.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T11:31:01.192Z",
-              "EditorCaption": " [Design]"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "e0900000-69b4-49c3-a922-c0789385bd5f",
-        "Display": 0,
-        "X": 1690,
-        "Y": 436,
-        "Width": 1426,
-        "Height": 807,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CalculadoraIMC.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\FolhadePagamento\\CalculadoraIMC.cs",
-              "RelativeDocumentMoniker": "FolhadePagamento\\CalculadoraIMC.cs",
-              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\FolhadePagamento\\CalculadoraIMC.cs [Design]",
-              "RelativeToolTip": "FolhadePagamento\\CalculadoraIMC.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T12:15:05.515Z",
+              "WhenOpened": "2025-04-07T12:30:14.088Z",
               "EditorCaption": " [Design]"
             }
           ]

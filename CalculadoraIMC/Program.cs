@@ -1,3 +1,5 @@
+using FolhadePagamento;
+
 namespace CalculadoraIMC
 {
     internal static class Program
