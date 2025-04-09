@@ -16,3 +16,4 @@ C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\Pr
 C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\net8.0-windows\ProjetoOrientacaoObjeto.genruntimeconfig.cache
 C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\net8.0-windows\ref\ProjetoOrientacaoObjeto.dll
 C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\net8.0-windows\ProjetoOrientacaoObjeto.frmExecutaPessoa.resources
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\net8.0-windows\ProjetoOrientacaoObjeto.frmProdutos.resources
