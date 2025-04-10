@@ -8,42 +8,48 @@ namespace ProjetoOrientacaoObjeto
 {
     internal class Cadastrar
     {
-        private string codigo;
-        private string descricao;
-        private int valor;
-        private int quantidade;
+        private string ccodigo="";
+        private string ddescricao="";
+        private double vvalor;
+        private double qquantidade;
+        private double Total;
 
         public void setCodigo(string codigo)
         {
-            this.codigo = codigo;
+            this.ccodigo = codigo;
         }
         public string getCodigo()
         {
-            return this.codigo;
+            return this.ccodigo;
         }
         public void setDescricao(string descricao)
         {
-            this.descricao = descricao;
+            this.ddescricao = descricao;
         }
         public string getDescricao()
         {
-            return this.descricao;
+            return this.ddescricao;
         }
-        public void setValor(int valor)
+        public void setValor(double valor)
         {
-            this.valor = valor;
+            this.vvalor = valor;
         }
-        public int getValor()
+        public double getValor()
         { 
-            return this.valor;
+            return this.vvalor;
         }
-        public void setQuatidade(int quatidade)
+        public void setQuatidade(double quatidade)
         {
-            this.valor = quatidade;
+            this.qquantidade = quatidade;
         }
-        public int getQuantidade()
+        public double getQuantidade()
         { 
-            return this.quantidade;
+            return this.qquantidade;
+        }
+        public double getTotal()
+        {
+            Total = vvalor * qquantidade;
+            return this.Total; 
         }
     }
 }

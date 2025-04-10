@@ -78,7 +78,6 @@
             gpbProdutos.TabIndex = 0;
             gpbProdutos.TabStop = false;
             gpbProdutos.Text = "Produtos";
-         
             // 
             // lblDataDeEntrada
             // 
@@ -96,7 +95,6 @@
             dtpDataDeEntrada.Name = "dtpDataDeEntrada";
             dtpDataDeEntrada.Size = new Size(116, 33);
             dtpDataDeEntrada.TabIndex = 11;
-           
             // 
             // txtQuantidade
             // 
@@ -104,7 +102,6 @@
             txtQuantidade.Name = "txtQuantidade";
             txtQuantidade.Size = new Size(100, 33);
             txtQuantidade.TabIndex = 8;
-      
             // 
             // lblQuantidade
             // 
@@ -138,7 +135,6 @@
             txtDescricao.Name = "txtDescricao";
             txtDescricao.Size = new Size(100, 33);
             txtDescricao.TabIndex = 3;
-          
             // 
             // lblDescricao
             // 
@@ -164,7 +160,6 @@
             lblCodigo.Size = new Size(73, 25);
             lblCodigo.TabIndex = 0;
             lblCodigo.Text = "Codigo";
-        
             // 
             // gpbProdutosCadastrados
             // 
@@ -228,6 +223,7 @@
             txtTotalCadastro.Name = "txtTotalCadastro";
             txtTotalCadastro.Size = new Size(100, 33);
             txtTotalCadastro.TabIndex = 22;
+            txtTotalCadastro.TextChanged += txtTotalCadastro_TextChanged;
             // 
             // txtCodigoCadastro
             // 
@@ -329,7 +325,7 @@
             Controls.Add(gpbProdutos);
             Name = "frmProdutos";
             Text = "Produto";
-            
+            Load += frmProdutos_Load;
             gpbProdutos.ResumeLayout(false);
             gpbProdutos.PerformLayout();
             gpbProdutosCadastrados.ResumeLayout(false);

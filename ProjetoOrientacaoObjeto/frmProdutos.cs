@@ -22,15 +22,32 @@ namespace ProjetoOrientacaoObjeto
 
             ca.setCodigo(txtCodigo.Text);
             ca.setDescricao(txtDescricao.Text);
-            //ca.setValor(Convert.ToInt32(mtbValor.Text));
-            ca.setQuatidade(Convert.ToInt32(txtQuantidade.Text));
+            ca.setValor(Convert.ToDouble(mtbValor.Text));
+            ca.setQuatidade(Convert.ToDouble(txtQuantidade.Text));
             //ps.setIdade(Convert.ToInt32(txtIdade.Text));
-     
+
             txtDescricaoCadastro.Text = ca.getDescricao();
             txtCodigoCadastro.Text = ca.getCodigo();
-            //mtbValor.Text=ca.getValor().ToString();
+            mtbValorCadastro.Text = ca.getValor().ToString();
             txtQuantidadeCadastro.Text = ca.getQuantidade().ToString();
             //txtMostraIdade.Text = ps.getIdade().ToString();
+
+            txtTotalCadastro.Text = ca.getTotal().ToString();
+        }
+
+        private void frmProdutos_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtTotalCadastro_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void mtbValorCadastro_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
+
         }
     }
 }
