@@ -26,6 +26,11 @@ namespace Padaria
 
         private void btnLimpar_Click(object sender, EventArgs e)
         {
+            limparCamposDesabilitar();
+        }
+        public void limparCamposDesabilitar()
+        {
+
             txtNumero1.Text = "";
             txtNumero2.Clear();
             txtResposta.Clear();
@@ -41,7 +46,8 @@ namespace Padaria
         {
             Application.Exit();
         }
-
+        
+      
         private void btnCalcular_Click(object sender, EventArgs e)
         {
             //declarando variaveis
@@ -82,9 +88,18 @@ namespace Padaria
                         MessageBoxButtons.OK,
                         MessageBoxIcon.Error,
                         MessageBoxDefaultButton.Button1);
+                    
+
                 }
                 else
                 {
+                    Operacoes operacoes = new Operacoes();
+
+                    if (rdbSomar.Checked)
+                    {
+                        resp = operacoes.SomaValor(num1,num2);
+                    }
+
                     if (num2 == 0 & rdbDivisao.Checked)
                     {
                         MessageBox.Show("Impossivel dividir por Zero", "mensagem do sistema", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
@@ -114,13 +129,19 @@ namespace Padaria
             catch (Exception)
             {
                 MessageBox.Show("Favor inserir somente numeros", "mensagem do sistema", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
-                txtNumero1.Clear();
-                txtNumero2.Clear();
-                txtNumero1.Focus();
+                //txtNumero1.Clear();
+                //txtNumero2.Clear();
+                //txtNumero1.Focus();
+                limparcampos();
             }
 
         }
-
+        public void limparcampos()
+        { 
+            txtNumero1.Clear();
+            txtNumero2.Clear();
+            txtNumero1.Focus();
+        }
         private void rdbSubtrair_CheckedChanged(object sender, EventArgs e)
         {
 

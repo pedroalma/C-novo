@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FolhadePagamento", "Folhade
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraIMC", "CalculadoraIMC\CalculadoraIMC.csproj", "{AEBAC25B-9310-416F-ABD8-6B593517AEF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoOrientacaoObjeto", "ProjetoOrientacaoObjeto\ProjetoOrientacaoObjeto.csproj", "{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoOrientacaoObjeto", "ProjetoOrientacaoObjeto\ProjetoOrientacaoObjeto.csproj", "{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetosArrays", "ProjetosArrays\ProjetosArrays.csproj", "{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

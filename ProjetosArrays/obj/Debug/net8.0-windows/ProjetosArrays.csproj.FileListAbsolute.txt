@@ -1,0 +1,17 @@
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetosArrays\bin\Debug\net8.0-windows\ProjetosArrays.exe
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetosArrays\bin\Debug\net8.0-windows\ProjetosArrays.deps.json
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetosArrays\bin\Debug\net8.0-windows\ProjetosArrays.runtimeconfig.json
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetosArrays\bin\Debug\net8.0-windows\ProjetosArrays.dll
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetosArrays\bin\Debug\net8.0-windows\ProjetosArrays.pdb
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetosArrays\obj\Debug\net8.0-windows\ProjetosArrays.frmVetores.resources
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetosArrays\obj\Debug\net8.0-windows\ProjetosArrays.csproj.GenerateResource.cache
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetosArrays\obj\Debug\net8.0-windows\ProjetosArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetosArrays\obj\Debug\net8.0-windows\ProjetosArrays.AssemblyInfoInputs.cache
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetosArrays\obj\Debug\net8.0-windows\ProjetosArrays.AssemblyInfo.cs
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetosArrays\obj\Debug\net8.0-windows\ProjetosArrays.csproj.CoreCompileInputs.cache
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetosArrays\obj\Debug\net8.0-windows\ProjetosArrays.sourcelink.json
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetosArrays\obj\Debug\net8.0-windows\ProjetosArrays.dll
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetosArrays\obj\Debug\net8.0-windows\refint\ProjetosArrays.dll
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetosArrays\obj\Debug\net8.0-windows\ProjetosArrays.pdb
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetosArrays\obj\Debug\net8.0-windows\ProjetosArrays.genruntimeconfig.cache
+C:\Users\pedro.asebastiao\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetosArrays\obj\Debug\net8.0-windows\ref\ProjetosArrays.dll
