@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetosArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3026951bd5b4013208fff64852b717a60c79cbcb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06a0fa1edbb1d095b7a3857d49ee357064d5db90")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetosArrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetosArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
