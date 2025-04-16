@@ -91,5 +91,10 @@ namespace FolhadePagamento
         {
 
         }
+
+        private void txtpeso_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

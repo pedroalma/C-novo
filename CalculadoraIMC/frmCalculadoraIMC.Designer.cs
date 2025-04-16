@@ -115,6 +115,7 @@
             txtpeso.Name = "txtpeso";
             txtpeso.Size = new Size(100, 33);
             txtpeso.TabIndex = 4;
+            txtpeso.TextChanged += txtpeso_TextChanged;
             // 
             // lblpeso
             // 
