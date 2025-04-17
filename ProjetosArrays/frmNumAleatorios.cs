@@ -18,21 +18,35 @@ namespace ProjetosArrays
             InitializeComponent();
         }
         Random rnd = new Random();
+        int tamanho; 
         private void btnGerar_Click(object sender, EventArgs e)
         {
-            try
+            if (rdbInteirosAleatorios.Checked)
             {
-                int valor = int.Parse(txtINsiraNumero.Text);
-                int num = rnd.Next(valor);
-                lblMostranumero.Items.Add(num);
+                {
+                    int num = rnd.Next();
+                    lblMostranumero.Items.Add(num);
+                    txtINsiraNumero.Clear();
+                    txtINsiraNumero.Focus();
+                }
+                if (rdbVariosInteirosAleatorios.Checked)
+                {
+
+                    try
+                    {
+                        int valor = int.Parse(txtINsiraNumero.Text);
+                        int num = rnd.Next(valor);
+                        lblMostranumero.Items.Add(num);
+                    }
+                    catch (Exception)
+                    {
+                        MessageBox.Show("Favor inserir um numero interiro");
+                        txtINsiraNumero.Clear();
+                        txtINsiraNumero.Focus();
+                    }
+                }
             }
-            catch(Exception)
-            {
-                MessageBox.Show("Favor inserir um numero interiro");
-                txtINsiraNumero.Clear();
-                txtINsiraNumero.Focus();    
-            }
-        
+
         }
 
         private void btnLimpar_Click(object sender, EventArgs e)
@@ -40,6 +54,41 @@ namespace ProjetosArrays
             lblMostranumero.Items.Clear();
             txtINsiraNumero.Clear();
             txtINsiraNumero.Focus();
+        }
+
+        private void radioButton4_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void gpbValores_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void rdbinteirosaletorisinteiros_CheckedChanged(object sender, EventArgs e)
+        {
+            txtnumeromaximo.Enabled = true;
+            txtnumerominimo.Enabled = true;
+            txtnumerominimo.Focus();
+        }
+
+        private void rdbVariosInteirosAleatorios_CheckedChanged(object sender, EventArgs e)
+        {
+            txtINsiraNumero.Enabled = true;
+            txtINsiraNumero.Focus();
+        }
+
+        private void rdbgerarfloatsaleatoris_CheckedChanged(object sender, EventArgs e)
+        {
+            txtnumeromaximo.Enabled = true;
+            txtnumerominimo.Enabled = true;
+            txtnumerominimo.Focus();
+        }
+
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

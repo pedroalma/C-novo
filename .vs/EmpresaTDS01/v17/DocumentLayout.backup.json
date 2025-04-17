@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}|ProjetosArrays\\ProjetosArrays.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\projetosarrays\\frmnumaleatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}|ProjetosArrays\\ProjetosArrays.csproj|solutionrelative:projetosarrays\\frmnumaleatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}|ProjetosArrays\\ProjetosArrays.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\projetosarrays\\frmnumaleatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}|ProjetosArrays\\ProjetosArrays.csproj|solutionrelative:projetosarrays\\frmnumaleatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}|ProjetosArrays\\ProjetosArrays.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\projetosarrays\\frmnumaleatorios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}|ProjetosArrays\\ProjetosArrays.csproj|solutionrelative:projetosarrays\\frmnumaleatorios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEBAC25B-9310-416F-ABD8-6B593517AEF0}|CalculadoraIMC\\CalculadoraIMC.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\calculadoraimc\\frmcalculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBAC25B-9310-416F-ABD8-6B593517AEF0}|CalculadoraIMC\\CalculadoraIMC.csproj|solutionrelative:calculadoraimc\\frmcalculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}|ProjetosArrays\\ProjetosArrays.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\projetosarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}|ProjetosArrays\\ProjetosArrays.csproj|solutionrelative:projetosarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\projetoorientacaoobjeto\\frmestruturarepeticao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99A2EF5-B38E-4E4D-A3B7-C1227AFC1DC3}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|solutionrelative:projetoorientacaoobjeto\\frmestruturarepeticao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}|ProjetosArrays\\ProjetosArrays.csproj|C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\projetosarrays\\frmnumaleatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}|ProjetosArrays\\ProjetosArrays.csproj|solutionrelative:projetosarrays\\frmnumaleatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}|ProjetosArrays\\ProjetosArrays.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\projetosarrays\\frmvetores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}|ProjetosArrays\\ProjetosArrays.csproj|solutionrelative:projetosarrays\\frmvetores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEBAC25B-9310-416F-ABD8-6B593517AEF0}|CalculadoraIMC\\CalculadoraIMC.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\calculadoraimc\\frmcalculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AEBAC25B-9310-416F-ABD8-6B593517AEF0}|CalculadoraIMC\\CalculadoraIMC.csproj|C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\calculadoraimc\\frmcalculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AEBAC25B-9310-416F-ABD8-6B593517AEF0}|CalculadoraIMC\\CalculadoraIMC.csproj|solutionrelative:calculadoraimc\\frmcalculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBAC25B-9310-416F-ABD8-6B593517AEF0}|CalculadoraIMC\\CalculadoraIMC.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\projetocsharpparadaria\\calculadoraimc\\frmcalculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBAC25B-9310-416F-ABD8-6B593517AEF0}|CalculadoraIMC\\CalculadoraIMC.csproj|solutionrelative:calculadoraimc\\frmcalculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E600BF5A-8E7D-4E79-B739-56E36F54C5B3}|ProjetosArrays\\ProjetosArrays.csproj|C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\projetosarrays\\frmvetores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -42,50 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetosArrays\\Program.cs",
-              "RelativeDocumentMoniker": "ProjetosArrays\\Program.cs",
-              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetosArrays\\Program.cs",
-              "RelativeToolTip": "ProjetosArrays\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T14:34:41.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmNumAleatorios.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetosArrays\\frmNumAleatorios.Designer.cs",
-              "RelativeDocumentMoniker": "ProjetosArrays\\frmNumAleatorios.Designer.cs",
-              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetosArrays\\frmNumAleatorios.Designer.cs",
-              "RelativeToolTip": "ProjetosArrays\\frmNumAleatorios.Designer.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAswDcAAAAAAAAAAAAAAA==",
+              "Title": "frmEstruturaRepeticao.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoOrientacaoObjeto\\frmEstruturaRepeticao.cs",
+              "RelativeDocumentMoniker": "ProjetoOrientacaoObjeto\\frmEstruturaRepeticao.cs",
+              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoOrientacaoObjeto\\frmEstruturaRepeticao.cs",
+              "RelativeToolTip": "ProjetoOrientacaoObjeto\\frmEstruturaRepeticao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T14:34:32.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmNumAleatorios.cs",
-              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetosArrays\\frmNumAleatorios.cs",
-              "RelativeDocumentMoniker": "ProjetosArrays\\frmNumAleatorios.cs",
-              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetosArrays\\frmNumAleatorios.cs",
-              "RelativeToolTip": "ProjetosArrays\\frmNumAleatorios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T14:31:33.887Z",
+              "WhenOpened": "2025-04-17T13:52:23.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmNumAleatorios.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetosArrays\\frmNumAleatorios.cs",
+              "RelativeDocumentMoniker": "ProjetosArrays\\frmNumAleatorios.cs",
+              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetosArrays\\frmNumAleatorios.cs",
+              "RelativeToolTip": "ProjetosArrays\\frmNumAleatorios.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAADgv1kAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:33:37.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "frmNumAleatorios.cs [Design]",
               "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetosArrays\\frmNumAleatorios.cs",
               "RelativeDocumentMoniker": "ProjetosArrays\\frmNumAleatorios.cs",
@@ -97,13 +80,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "frmCalculadoraIMC.cs",
               "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\CalculadoraIMC\\frmCalculadoraIMC.cs",
               "RelativeDocumentMoniker": "CalculadoraIMC\\frmCalculadoraIMC.cs",
               "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\CalculadoraIMC\\frmCalculadoraIMC.cs",
               "RelativeToolTip": "CalculadoraIMC\\frmCalculadoraIMC.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAYwGAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAADwv1YAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T13:36:57.262Z",
               "EditorCaption": ""
@@ -117,8 +100,7 @@
               "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\CalculadoraIMC\\frmCalculadoraIMC.cs [Design]",
               "RelativeToolTip": "CalculadoraIMC\\frmCalculadoraIMC.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T13:36:24.901Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-16T13:36:24.901Z"
             },
             {
               "$type": "Document",
@@ -135,15 +117,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "frmVetores.cs [Design]",
               "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetosArrays\\frmVetores.cs",
               "RelativeDocumentMoniker": "ProjetosArrays\\frmVetores.cs",
               "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetosArrays\\frmVetores.cs [Design]",
               "RelativeToolTip": "ProjetosArrays\\frmVetores.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T12:18:47.654Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-15T12:18:47.654Z"
             }
           ]
         }

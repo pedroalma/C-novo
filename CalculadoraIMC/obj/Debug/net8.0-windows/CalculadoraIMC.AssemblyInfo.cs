@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraIMC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16de9a6cfaea97f9f01d267d0950e904c441a278")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c64df273a8b4831bd5fd36fa0947137fca3cb1f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraIMC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraIMC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
